@@ -1,0 +1,12 @@
+/* .btn-regular{
+    background-color: #0a192f;
+    color: #28a745;
+    border: 1px solid green;
+    border-radius: 5px; 
+} */
+.btn-regular:hover{
+    background-color: #28a745 !important;
+    color:white;
+    
+   
+}
