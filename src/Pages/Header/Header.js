@@ -24,6 +24,11 @@ const Header = () => {
           <a className="nav-link text-light" href="#">Pricing</a>
         </li>
         <li className="nav-item">
+          <Link to='/contact'>
+          <a className="nav-link active text-light" aria-current="page" href="#">Contact</a>
+          </Link>
+        </li>
+        <li className="nav-item">
           <div className="btn-regular">
           <a className="nav-link text-light" href="https://drive.google.com/file/d/1lsh4zHmnYD7kzBMWAIz_3O_JSKAqizhB/view?usp=sharing" target='_blank'>RESUME</a>
           </div>
