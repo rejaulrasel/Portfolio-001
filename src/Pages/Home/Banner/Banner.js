@@ -18,7 +18,7 @@ const Banner = () => {
                     <p>A self-motivated and enthusiastic web developer with a deep interest in JavaScript. To work in the Software industry with modern web technologies of different local & multinational Software/ IT agencies of Bangladesh and grow rapidly with increasing responsibilities.
                     </p>
                     <button className='btn-danger py-2 px-3 rounded-3 me-4 mb-md-0 mb-3'>About me</button>
-                    <Link to='/contact'><button style={{'backgroundColor' : '#0a192f', 'color' : 'white', 'border': '1px solid green'}}  className='btn-regular py-2 px-3'>Get In Touch</button></Link>
+                    <button style={{'backgroundColor' : '#0a192f', 'color' : 'white', 'border': '1px solid green'}}  className='btn-regular py-2 px-3'><a href="https://www.linkedin.com/in/rejaul-hasan-rasel-296a0717b/" target='blank' className='text-light text-decoration-none'>Hire Me</a></button>
                 </div>
             </div>
             <div className="col-md-5 col-12 ">
