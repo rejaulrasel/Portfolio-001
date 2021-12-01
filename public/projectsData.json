@@ -50,7 +50,7 @@
         "img1": "https://i.ibb.co/ngKSq0F/mole-01.png",
         "img2": "https://i.ibb.co/VDck4ZX/mole-02.png ",
         "img3": "https://i.ibb.co/HTKfScY/mole-03.png",
-        "technologies": " ",
+        "technologies": "React JS, React-router, Firebase authentication, Private route, Context API, Bootstrap, CSS and hosted in firebase. ",
         "feature1": "Mobile and Desktop Responsive React project of a healthcare diagnosis center with a dynamic routing system. " ,
         "feature2": "Users must have to sign in by google or email-password system to see the service details or can sign up by email and password. " ,
         "feature3": "Molecular Diagnosis is a total frontend focused app with a third party API." ,

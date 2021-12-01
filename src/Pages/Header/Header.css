@@ -1,6 +1,6 @@
 /* nav{
     position: fixed;
 } */
-.nav-item a{
+.nav-item a, a{
     text-decoration: none;
 }

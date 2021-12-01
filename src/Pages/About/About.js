@@ -1,6 +1,7 @@
 import React from 'react';
 import './About.css'
 import Header from '../Header/Header';
+import Footer from '../Footer/Footer';
 
 const About = () => {
     return (
@@ -11,7 +12,7 @@ const About = () => {
                 <div className="row gx-5">
                     <div className="col-md-6 col-12  ">
                         <h3>I'm Rejaul Hasan</h3>
-                        <p>A self-motivated and enthusiastic web developer with a deep interest in JavaScript. To work in the Software industry with modern web technologies of different local & multinational Software/ IT agencies of Bangladesh and grow rapidly with increasing responsibilities.</p>
+                        <p>I'm a passionate web designer and developer.I believe in hard work.I am doing my work honestly.I like to learn different things and want to build a foundation of my knowledge</p>
                     </div>
                     <div className="col-md-6 col-12">
                         <div className="row-col-12">
@@ -56,6 +57,7 @@ const About = () => {
             </div>
             </div>
         </section>
+        <Footer></Footer>
         </div>
     );
 };
