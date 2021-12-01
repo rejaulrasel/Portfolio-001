@@ -6,6 +6,7 @@ import Contact from './Pages/Contact/Contact';
 import About from './Pages/About/About';
 import Projects from './Pages/Projects/Projects';
 import Blogs from './Pages/Blogs/Blogs';
+import SingleProject from './Pages/Projects/SingleProject/SingleProject';
 
 function App() {
   return (
@@ -29,6 +30,9 @@ function App() {
     </Route>
     <Route exact path = '/contact'>
       <Contact></Contact>
+    </Route>
+    <Route exact path = '/projects/:id'>
+      <SingleProject></SingleProject>
     </Route>
      </Switch>
      </BrowserRouter>

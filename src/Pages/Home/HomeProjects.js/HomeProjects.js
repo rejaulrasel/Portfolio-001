@@ -8,11 +8,11 @@ const HomeProjects = () => {
     return (
         <div>
             <div className="text-center">
-                <h1 className='text-light'>My Recent works</h1>
+                <h1 className='text-light mb-5'>My Recent works</h1>
             </div>
            <div className="container">
            {
-                projects.map(project => <Project
+                projects.slice(0,3).map(project => <Project
                 key={project.id}
                 project={project}
                 ></Project>)

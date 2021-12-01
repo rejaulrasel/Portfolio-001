@@ -35,14 +35,44 @@
         "img1": "https://i.ibb.co/SPJ6bDR/school-01.png ",
         "img2": "https://i.ibb.co/0MDRqKw/school-02.png ",
         "img3": "https://i.ibb.co/kDdW43z/school-03.png ",
-        "technologies": " ",
-        "feature1": " ",
+        "technologies": "React JS, React-router, Bootstrap, CSS, and hosted in Netlify",
+        "feature1": "It's a totally front-end focused react application. Rasel School basically a learning platform of many types of courses.",
         "feature2": "",
         "feature3": "",
-        "website": "",
-        "client": "",
-        "server": " "
-    }
+        "website": "https://admiring-jackson-de1106.netlify.app/",
+        "client": "https://github.com/rejaulrasel/Rasel-School",
+        "server": ""
+    },
+
+    {
+        "id" : 4,
+        "title" : "Molecular Diagnosis",
+        "img1": "https://i.ibb.co/ngKSq0F/mole-01.png",
+        "img2": "https://i.ibb.co/VDck4ZX/mole-02.png ",
+        "img3": "https://i.ibb.co/HTKfScY/mole-03.png",
+        "technologies": " ",
+        "feature1": "Mobile and Desktop Responsive React project of a healthcare diagnosis center with a dynamic routing system. " ,
+        "feature2": "Users must have to sign in by google or email-password system to see the service details or can sign up by email and password. " ,
+        "feature3": "Molecular Diagnosis is a total frontend focused app with a third party API." ,
+        "website": "https://molecular-dagnosis.web.app/",
+        "client": "https://github.com/rejaulrasel/healthcare-website",
+        "server": ""
+    },
+
+    {
+            "id" : 5,
+            "title" : "Honda-CBR",
+            "img1": "https://i.ibb.co/kc6X05V/honda-01.png",
+            "img2": "https://i.ibb.co/b5b8x0F/honda-02.png ",
+            "img3": "https://i.ibb.co/QjH2DgQ/honda-03.png ",
+            "technologies": "HTML, CSS, Bootstrap4 ",
+            "feature1": "" ,
+            "feature2": "" ,
+            "feature3": "" ,
+            "website": " https://honda-cvr.netlify.app/",
+            "client": "https://github.com/rejaulrasel/Honda-CBR",
+            "server": ""
+        }
 ]
 
 
