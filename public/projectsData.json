@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Car Mania ",
+        "img1": "https://i.ibb.co/z7DBY4j/car-mania-01.png ",
+        "img2": "https://i.ibb.co/K05fLbQ/car-mania-02.png ",
+        "img3": "https://i.ibb.co/cDWktZ9/car-mania-03.png ",
+        "technologies": "React JS, React-router, Firebase Authentication, Private-router, React-hook-form, Material UI, Bootstrap, CSS, MongoDB, Node.js, Express.js, Heroku, and finally hosted in firebase. ",
+        "feature1": "Mern Stack project which is responsive for mobile and desktop version with a firebase authentication system, also included admin panel, login system, and dashboard functionality for users and admin. ",
+        "feature2": "Users have to sign in by google or email/password system to order any car or other request. Users also can see all orders by his/her. ",
+        "feature3": "Admin Can change dynamically cars item and also manage users order by approve their order status. ",
+        "website": "https://car-mania-f1b76.web.app/ ",
+        "client": "https://github.com/rejaulrasel/Car-Mania-Client-Side",
+        "server": "https://github.com/rejaulrasel/Car-Mania-Server-Side "
+    },
+
+    {
+        "id": 2,
+        "title": "Tour Dibo",
+        "img1": "https://i.ibb.co/ZGVVG6L/tour-dibo-01.png ",
+        "img2": "https://i.ibb.co/pJ0HYbz/tour-dibo-02.png ",
+        "img3": "https://i.ibb.co/yV0Nysq/tour-dibo-03.png ",
+        "technologies": " React js, Firebase Authentication, React-router, React hook form, Bootstrap, MongoDB, Node.js, express.js Heroku and finally hosted in firebase ",
+        "feature1": "Mern stack mobile and desktop responsive with firebase authentication, google login system functionality for users. ",
+        "feature2": "Users can book a tour, update their status from pending to ongoing to do, and can delete his/her booking tour.",
+        "feature3": "Users must have to sign in to request a service for booking a tour and provide his/her name, email address, mobile number information for booking a tour.",
+        "website": "https://tour-dibo.web.app/",
+        "client": "https://github.com/rejaulrasel/Tour-dibo-client-side",
+        "server": "https://github.com/rejaulrasel/Tour-Dibo-server-side"
+    },
+
+    {
+        "id": 3,
+        "title": "Rasel School",
+        "img1": "https://i.ibb.co/SPJ6bDR/school-01.png ",
+        "img2": "https://i.ibb.co/0MDRqKw/school-02.png ",
+        "img3": "https://i.ibb.co/kDdW43z/school-03.png ",
+        "technologies": " ",
+        "feature1": " ",
+        "feature2": "",
+        "feature3": "",
+        "website": "",
+        "client": "",
+        "server": " "
+    }
+]
+
+
+
+

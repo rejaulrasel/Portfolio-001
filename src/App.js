@@ -4,6 +4,8 @@ import Home from './Pages/Home/Home';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Contact from './Pages/Contact/Contact';
 import About from './Pages/About/About';
+import Projects from './Pages/Projects/Projects';
+import Blogs from './Pages/Blogs/Blogs';
 
 function App() {
   return (
@@ -13,11 +15,17 @@ function App() {
     <Route exact path = '/'>
       <Home></Home>
     </Route>
-    <Route exact path = '/home'>
+    <Route exact path ='/home'>
       <Home></Home>
     </Route>
-    <Route exact path = '/about'>
+    <Route exact path ='/about'>
      <About></About>
+    </Route>
+    <Route exact path = '/projects'>
+     <Projects></Projects>
+    </Route>
+    <Route exact path = '/blogs'>
+     <Blogs></Blogs>
     </Route>
     <Route exact path = '/contact'>
       <Contact></Contact>
