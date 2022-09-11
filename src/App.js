@@ -7,11 +7,15 @@ import About from './Pages/About/About';
 import Projects from './Pages/Projects/Projects';
 import Blogs from './Pages/Blogs/Blogs';
 import SingleProject from './Pages/Projects/SingleProject/SingleProject';
+import Header from './Pages/Header/Header';
+import Navbar from './Pages/Navbar/Navbar';
 
 function App() {
   return (
     <div className="App">
      <BrowserRouter>
+     {/* <Header></Header> */}
+     <Navbar></Navbar>
      <Switch>
     <Route exact path = '/'>
       <Home></Home>

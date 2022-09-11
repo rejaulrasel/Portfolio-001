@@ -5,7 +5,7 @@ import './Contact.css'
 const Contact = () => {
     return (
         <div>
-            <Header></Header>
+            {/* <Header></Header> */}
             <div className='container my-5 py-5'>
 
                 <div className='mx-auto' >

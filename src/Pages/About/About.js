@@ -2,15 +2,19 @@ import React from 'react';
 import './About.css'
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
+import img from './/../../images/my-photo.png'
 
 const About = () => {
     return (
         <div>
-            <Header></Header>
+            {/* <Header></Header> */}
             <section>
             <div className="container text-white mx-auto my-5 py-5 ">
                 <div className="row gx-5">
                     <div className="col-md-6 col-12  ">
+                        {/* <div className="text-center">
+                        <img src={img} className='text-center mb-4' alt="" />
+                        </div> */}
                         <h3>I'm Rejaul Hasan</h3>
                         <p>I'm a passionate web designer and developer.I believe in hard work.I am doing my work honestly.I like to learn different things and want to build a foundation of my knowledge</p>
                     </div>

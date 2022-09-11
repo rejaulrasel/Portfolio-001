@@ -7,7 +7,7 @@ import Header from '../Header/Header';
 const Blogs = () => {
     return (
         <div>
-            <Header></Header>
+            {/* <Header></Header> */}
             <h1 className="text-center text-light py-5 blog">
                 Blogs Coming Soon
             </h1>

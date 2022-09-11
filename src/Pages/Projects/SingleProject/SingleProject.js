@@ -23,8 +23,8 @@ const SingleProject = () => {
     }, [projects, id])
     return (
         <div className='text-light'>
-            <Header></Header>
-            <div className='container'>
+            {/* <Header></Header> */}
+            <div className='container' >
                 <h1 className='text-center'>Contingents</h1>
                 <div data-aos='zoom-out' className="row mb-3 gy-4 ">
                     <div className="col-md-4 col-12">

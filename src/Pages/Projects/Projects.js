@@ -8,7 +8,7 @@ const Projects = () => {
     const {projects} = useProjects()
     return (
         <div>
-            <Header></Header>
+            {/* <Header></Header> */}
             <div className="container">
            {
                 projects.map(project => <Project
