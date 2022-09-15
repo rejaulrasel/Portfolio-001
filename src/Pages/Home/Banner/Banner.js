@@ -17,7 +17,7 @@ const Banner = () => {
                     <p>Hello, I'm</p>
                     <h1 className='fw-bold mb-0'>REJAUL HASAN</h1>
                     <br />
-                    <h3 className='text-primary'>
+                    <h3 className='text-primary type'>
                     <Type></Type>
                     </h3>
                     <p>A self-motivated and enthusiastic web developer with a deep interest in JavaScript. To work in the Software industry with modern web technologies of different local & multinational Software/ IT agencies of Bangladesh and grow rapidly with increasing responsibilities.

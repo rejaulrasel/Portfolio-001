@@ -15,13 +15,13 @@ function Navbar() {
     <>
     
     <div className='navbar_2 '>
-        <Link to='/home'>Rejaul Hasan</Link>
+        <Link to='/home'>ℝ𝕖𝕛𝕒𝕦𝕝 ℍ𝕒𝕒𝕤𝕒𝕟</Link>
          <div className='ms-auto menu'>
          <Link to='/home'>Home</Link>
          <Link to='/about'>About</Link>
          <Link to='/projects'>Projects</Link>
          <Link to='/blogs'>Blogs</Link>
-         <Link to='/about'>About</Link>
+         <Link to='/contact'>Contact</Link>
          </div>
 
          </div>
