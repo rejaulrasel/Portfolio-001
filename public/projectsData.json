@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "Car Mania ",
-        "img1": "https://i.ibb.co/z7DBY4j/car-mania-01.png ",
-        "img2": "https://i.ibb.co/K05fLbQ/car-mania-02.png ",
-        "img3": "https://i.ibb.co/cDWktZ9/car-mania-03.png ",
+        "title": "RN-Tech",
+        "img1": "https://i.ibb.co/vcgDNzV/RN-Tech-1.png",
+        "img2": " https://i.ibb.co/CHzphsf/RN-Tech-2.png ",
+        "img3":  "https://i.ibb.co/0ZNqFyT/RN-Tech-3.png ",
         "technologies": "React JS, React-router, Firebase Authentication, Private-router, React-hook-form, Material UI, Bootstrap, CSS, MongoDB, Node.js, Express.js, Heroku, and finally hosted in firebase. ",
         "feature1": "Mern Stack project which is responsive for mobile and desktop version with a firebase authentication system, also included admin panel, login system, and dashboard functionality for users and admin. ",
         "feature2": "Users have to sign in by google or email/password system to order any car or other request. Users also can see all orders by his/her. ",
