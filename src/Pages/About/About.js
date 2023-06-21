@@ -11,16 +11,18 @@ const About = () => {
             <section>
             <div className="container text-white mx-auto my-5 py-5 ">
                 <div className="row gx-5">
-                    <div className="col-md-6 col-12  ">
+                    <div className="col-12  ">
                         {/* <div className="text-center">
                         <img src={img} className='text-center mb-4' alt="" />
                         </div> */}
-                        <h3>I'm Rejaul Hasan</h3>
-                        <p>I'm a passionate web designer and developer.I believe in hard work.I am doing my work honestly.I like to learn different things and want to build a foundation of my knowledge</p>
+                        <h1 className='text-center'>I'm Rejaul Hasan</h1>
+                       <div className='d-flex justify-content-center'>
+                       <p className='w-50 text-center'>I'm a passionate web designer and developer.I believe in hard work.I am doing my work honestly.I like to learn different things and want to build a foundation of my knowledge</p>
+                       </div>
                     </div>
-                    <div className="col-md-6 col-12">
+                    <div className="col-12">
                         <div className="row-col-12">
-                            <h3><span className='heading-border'>Front-End</span></h3>
+                            <h3><span className='heading-border mt-5'>Front-End</span></h3>
                             <div className='skills'>
                                 <p className="skill">HTML</p>
                                 <p className="skill">CSS</p>
